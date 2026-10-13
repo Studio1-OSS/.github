@@ -77,4 +77,4 @@ Issues and pull requests are welcome in every repository. For bigger changes, op
 
 ## License
 
-Each project is licensed separately; see the `LICENSE` file in each repository. nconnect, awesome-llm-benchmarks and revenue-intelligence are MIT licensed.
+Every project here is MIT licensed. See the `LICENSE` file in each repository.
